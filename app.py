@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 from google import genai
-from google.genai import types
+from google.genai import types 
 
 
 # =========================================================
