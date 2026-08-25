@@ -1,6 +1,6 @@
 import streamlit as st
 from google import genai
- 
+
 st.set_page_config(
     page_title="업무지원 AI 도우미",
     page_icon="🤖",
