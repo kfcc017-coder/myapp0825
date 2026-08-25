@@ -6,7 +6,7 @@ st.set_page_config(
     page_icon="🤖",
     layout="centered"
 )
-
+ 
 st.title("업무지원 AI 도우미")
 st.caption("Gemini API를 활용한 교육용 AI 앱")
 
